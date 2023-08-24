@@ -89,7 +89,7 @@ with open('../next-version.txt') as verfile:
 # External links
 extlinks = {'issues': ('https://github.com/F5Networks/k8s-bigip-ctlr/issues/%s',
                       'issue '),
-                      'cccl-issue': ('https://github.com/f5devcentral/f5-cccl/issues/%s',
+                      'cccl-issue': ('https://github.com/raja-0940/f5-cccl/issues/%s',
                       'issue ')}
 
 # Substitutions
